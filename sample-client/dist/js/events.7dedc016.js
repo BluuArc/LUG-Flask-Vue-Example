@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["events"],{aa9c:function(e,n,t){"use strict";t.r(n);var s=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("This is an events page.")])},a=[],i=t("2877"),l={},u=Object(i["a"])(l,s,a,!1,null,null,null);u.options.__file="Events.vue";n["default"]=u.exports}}]);
+//# sourceMappingURL=events.7dedc016.js.map
