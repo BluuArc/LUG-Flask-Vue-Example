@@ -32,9 +32,9 @@
               </a>
             </p>
             <p class="control">
-              <a href="mailto:lug@uic.edu" rel="noopener" target="_blank" class="button">
+              <a href="https://lugatuic.slack.com/" rel="noopener" target="_blank" class="button">
                 <span class="icon">
-                  <i class="fas fa-at"></i>
+                  <i class="fab fa-slack"></i>
                 </span>
                 <span>Slack</span>
               </a>
